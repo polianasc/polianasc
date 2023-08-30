@@ -1,69 +1,53 @@
-Text Structure 
-# Heading
-## Subheading
-### Subheahing2
+
+# Hello!
+
+### Poli's here! 💛
+
 
 
 ---
-#### Text Styling
-
-**abcd** bold
-_abcd_ - italic
-~~abcd~~ - struck through
-a<sub>bc</sub>d - subscript
-a<sup>bc</sup>d - supercript
-> abcd - this is a quotation
-
-`abcd`
+### bit of myself:
+- a Brazilian who lives in Germany for 7 years, _but still can't stand the German winter and flees to Brazil every year._
+- I like **Sports** and **TO DO LISTs**
+- Yoga Instructor
 
 ---
-## Lists
+### life time (to do list 🤭):
 
-### Undordered List
-- a
-- b
-- c
 
-### Nest Lists
-1. letters
-    - a
-    - b
-    - c
-2. numbers
-    - 1
+
+
+
+
+- [x] `be born`
+- [x] `start school`
+- [x] `make friends` <span style="color:#0275FF; font-family: 'Brush Script MT'; font-size:1.5em; "> still  making friends</span>
+- [x] `graduate`<span style="color:#0275FF; font-family: 'Brush Script MT'; font-size:1.5em;"> bussines </span>
+- [x] `get job` 
+- [x] `fall in love`
+- [x] `get married`
+- [ ] ~~`buy a house`~~ <span style="color:#0275FF; font-family: 'Brush Script MT'; font-size:1.5em;"> moving to another country </span>
+- [ ] `have a baby`<span style="color:#0275FF; font-family: 'Brush Script MT'; font-size:1.5em;">   not sure yet, babies grow up and I'm still scared of teenagers </span>
+- [ ] ~~`have the second kid`~~
+- [x] <span style="color:#0275FF; font-family: 'Brush Script MT'; font-size:1.5em;">changing careers </span>
+- [x] <span style="color:#0275FF; font-family: 'Brush Script MT'; font-size:1.5em;">learn how to code</span>
+- [ ] <span style="color:#0275FF; font-family: 'Brush Script MT'; font-size:1.5em;">travel the world</span>
+- [ ] `retire`
+- [ ] `make a will`
+- [ ] `die`
+
+
+
 
 ---
+### let's get in touch!
 
-## Links
-Here's a link to [DCI](https://digitalcareerinstitute.org/)
+📧  polianaschuelter@gmail.com
+[<img src="/images/instagram.avif" alt="drawing" width="20"/> ](https://www.instagram.com/polischuelter/)
+ 
+
+
+
 
 ---
-## Emojis
-
-hello :eyes:
-
-___
-
-## Checkboxes
-
-- [ ] a
-- [x] b
-- [ ] c
-- [x] d
-
----
-## Tables
-|Letters| numeber|
-|-------|--------|
-|a      |1       |
-|b      |2       |
-
----
-## Images
-![beach](https://www.pexels.com/photo/scenic-view-of-ocean-during-sunset-1032650/)
-![beach](/images/beach.jpeg)
-
-
-
-
-alterations
+<sup> 🧘🏼‍♀️ This project was coded by Poli Schuelter 👩‍💻 </sup>
