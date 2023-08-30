@@ -62,3 +62,8 @@ ___
 ## Images
 ![beach](https://www.pexels.com/photo/scenic-view-of-ocean-during-sunset-1032650/)
 ![beach](/images/beach.jpeg)
+
+
+
+
+alterations
