@@ -24,24 +24,20 @@ I'm passionate about staying active and healthy, which led me to become a yoga i
 
 ---
 
-## Projects & Contributions
+### Projects & Contributions
 
 - **Organize One:** A task management app designed to help users stay organized and efficient. It allows you to create, track, and prioritize tasks with ease.
 - **Food Delivery App:** Currently developing an app to streamline the food delivery process.
 
-
+---
 
 ### Let's get in touch!
 I'm always open to new connections and conversations. Whether you're interested in yoga, sports, or just want to chat about life, feel free to reach out!
 
 
-polianaschuelter@gmail.com
-
-📧  polianaschuelter@gmail.com
+📧    polianaschuelter@gmail.com
 [<img src="/images/instagram.avif" alt="drawing" width="20"/> ](https://www.instagram.com/polischuelter/)
  
-
-
 
 
 ---
